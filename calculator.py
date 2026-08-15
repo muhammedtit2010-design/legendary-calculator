@@ -19,3 +19,4 @@ else:
     result = "عملية غير صحيحة"
 
 print("النتيجة:", result)
+ 
